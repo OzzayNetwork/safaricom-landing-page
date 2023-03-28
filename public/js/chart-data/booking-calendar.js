@@ -13,7 +13,7 @@ Highcharts.chart('booking_calendar', {
         marginTop: 40,
         marginBottom: 80,
         style: {
-            color: "#0553a1"
+            color: "#22a440"
         },
         plotBorderWidth: 1
     },

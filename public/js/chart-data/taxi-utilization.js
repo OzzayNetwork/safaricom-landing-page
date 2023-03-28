@@ -1,5 +1,5 @@
 Highcharts.setOptions({
-    colors: ['#0553a1', '#ffc721', '#DDDF00', '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4']
+    colors: ['#22a440', '#ffc721', '#DDDF00', '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4']
    });
 
 Highcharts.chart('taxi_utilization', {

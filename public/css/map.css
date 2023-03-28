@@ -231,14 +231,14 @@
 .selected-point-details{
     
     margin-bottom: 1rem;
-    background: #0553a117;
-    border: 2px solid #0553a1;
+    background: #22a44017;
+    border: 2px solid #22a440;
     border-radius: 8px;
 }
 .selected-point-details h6{
     font-size: 1.3rem;
     font-weight: bold;
-    color: #0553a1;
+    color: #22a440;
 }
 
 
@@ -1024,7 +1024,7 @@
     }
 
     .main-map-form{
-        border: 2px solid #0553a1;
+        border: 2px solid #22a440;
         border-radius: 4px;
         overflow: hidden;
         margin-bottom:2rem;
