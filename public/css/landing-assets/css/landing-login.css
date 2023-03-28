@@ -3612,3 +3612,9 @@ select:-webkit-autofill:focus {
 }
 
 
+.saf-logo img{
+  height: 115px;
+  margin-bottom: 0px;
+}
+
+
